@@ -178,10 +178,7 @@ a{
     background-image: url('../images/Background2.1.1.png');
 }
 
-
-
 /* Gallery pictures */
-
 
 .image-grid{
     --gap: 16px;
@@ -326,34 +323,29 @@ table td{
     padding: 0 8px;
   }
 
-
-
-/* Art & Crafts */
-
-
-
-
-
-/* Book Club */
-
-
-
-
-
-
-/* Cozy Games */
-
 .gametag3{
     font-family: VarelaRound-Regular;
-    color:rgb(95, 49, 26);
+    color:rgb(172, 129, 81);
     text-align: center;
-    font-size: 17px;
+    font-size: 21px;
 }
 .gametag4{
     font-family: VarelaRound-Regular;
-    color:rgb(95, 49, 26);
+    color:rgb(124, 59, 27);
     text-align: center;
-    font-size: 15px;
+    font-size: 17px;
+}
+
+.booktag1{
+    font-family: VarelaRound-Regular;
+    color:rgb(172, 122, 64);
+    text-align: center;
+    font-size: 21px;
+}
+
+.tenor-gif-embed{
+    width: 200px;
+    height: 400px;
 }
 
 
